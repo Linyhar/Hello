@@ -1,0 +1,28 @@
+#maindiv{
+	width: 1500px;	
+	height: 1200px; 
+	float: left; 
+}
+#d1{width:700px; height:50px; margin: 10px 472px 10px 100px;float: left;}
+#d2{width:128px; height:50px; margin: 10px 100px 10px 0px;float: left;}
+#d3{width:1300px; height:50px; margin: 0px 200px 20px 100px;background-color:blue;color:white; clear: both;}
+#d4{width:900px; height:50px; margin: 0px 10px 20px 100px;float: left;}
+#d5{width:390px; height:64px; margin: 0px 100px 20px 0px;float: left;}
+#d6{width:1030px; height:100px; margin: 0px 125px 20px 100px;float: left;}
+#d7{width:145px; height:100px; margin: 0px 100px 20px 0px;float: left;}
+#d7_1{width:145px; height:50px; margin: 0px 0px 0px 0px;}
+#d7_2{width:145px; height:50px; margin: 0px 0px 0px 0px;}
+
+#d8{width:420px; height:1000px; margin: 0px 30px 30px 100px;float: left;}
+#d9{width:420px; height:1000px; margin: 0px 30px 30px 0px;float: left;}
+#d10{width:400px; height:1000px; margin: 0px 100px 30px 0px;float: left;}
+
+li{font-size: large;margin: 5px 5px 5px 5px;}
+
+.aq{
+	font-size: larger;
+	text-align: center;
+	
+	margin: 0 auto;
+	margin: 3px 29px 3px 20px;
+}
